@@ -384,3 +384,23 @@ Fonts
      margin-right: auto;
      
  }
+.fa{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.black-color{
+    color:black;
+ }
+ .network-icon {
+    display:flex;
+    justify-content: center;
+}
+.network-icon li{
+    display: inline;
+    margin-right: 40px;
+    font-size:36px;
+}
+.network-icon li:hover .fa {
+    transform: scale(1.2); /* Adjust the scale value as desired */
+}
