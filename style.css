@@ -253,6 +253,9 @@ Fonts
      font-size: 20px;
      margin: 20px 0;
  }
+ .skill {
+    font-size: 30px;
+ }
  .about-text .skills{
      display: flex;
      flex-wrap: wrap;
